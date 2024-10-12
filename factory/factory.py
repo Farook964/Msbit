@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # **إعدادات المصنع**
-MAIN_BOT_TOKEN = 'YOUR_MAIN_BOT_TOKEN_HERE'  # ضع توكن البوت الرئيسي هنا
+MAIN_BOT_TOKEN = '7917495652:AAGBQYLsIKaoQ9sowoJ1e1bpOutnRbX-C9I'  # ضع توكن البوت الرئيسي هنا
 API_ID = 29677860  # ضع API ID الخاص بك هنا
 API_HASH = '785da04e1d7d75c744632dacd6134d34'  # ضع API Hash الخاص بك هنا
 
